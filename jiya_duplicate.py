@@ -27,7 +27,7 @@ engine.setProperty('voice', voices[1].id)
 history = []
 
 # DeepSeek API Key (Replace with your actual key)
-DEEPSEEK_API_KEY = "sk-6d27660144e147b1b9978c48263e98a2"
+DEEPSEEK_API_KEY = ""
 
 # OpenWeatherMap API Key and URL
 API_KEY = "your_openweathermap_api_key"

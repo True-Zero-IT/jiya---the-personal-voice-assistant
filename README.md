@@ -18,4 +18,4 @@ Reference:
     https://www.youtube.com/watch?v=Lp9Ftuq2sVI&t=3086s  
     https://www.youtube.com/watch?v=s_8b5iq4Rvk  
 
-more information's are all in documentation --->https://sites.google.com/view/jiya-personal-voice-assistant/home
+more information's are all in documentation --->https://sites.google.com/view/jiya-personal-voice-assistant/jiya
